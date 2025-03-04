@@ -1,7 +1,7 @@
 # sql-dwh
 Building a datawarehouse with SQL Server, including ETL processes, data modeling and analytics
 
-# Datawarhouse and Analytics Project
+# Datawarehouse and Analytics Project
 welcome to the data **Datawarhouse and Analytics Project** respository !
 This project demonstrates a comprehensive data warehousing analytics solution, from building a data warehouse to generating an actionable insights.
 
